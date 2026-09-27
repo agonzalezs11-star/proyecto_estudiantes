@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gohan",
+    "apellido": "Herrera",
+    "email": "gohan.herrera@ejemplo.com",
+    "carnet": "EST001",
+    "notas": {
+      "Matemáticas": [18],
+      "Programación": [20]
+    },
+    "materias": [
+      "Matemáticas",
+      "Programación"
+    ]
+  }
+]
