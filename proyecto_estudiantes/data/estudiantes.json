@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gohan",
+        "apellido": "Herrera",
+        "email": "gohan.herrera@gmail.com",
+        "carnet": "EST001",
+        "notas": {
+            "Matemáticas": [
+                18
+            ],
+            "Programación": [
+                20
+            ]
+        },
+        "materias": [
+            "Matemáticas",
+            "Programación"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Yaren",
+        "apellido": "Chavez",
+        "email": "yaren.chavez@gmail.com",
+        "carnet": "EST003",
+        "notas": {
+            "Fisica": [
+                10.0
+            ],
+            "Economia": [
+                20.0
+            ]
+        },
+        "materias": [
+            "Economia",
+            "Fisica"
+        ]
+    }
+]
