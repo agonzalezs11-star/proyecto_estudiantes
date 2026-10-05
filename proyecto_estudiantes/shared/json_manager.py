@@ -70,3 +70,7 @@ def guardar(datos):
             indent=4,
             ensure_ascii=False
         )
+        def añadir(estudiantes):
+    datos=cargar ()
+    datos.append(estudiantes)
+    guardar(datos)
